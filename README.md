@@ -29,12 +29,20 @@
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" height="50px" alt="Handshake"></img> GitHub Trophies:
 
+
+<a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img src="https://github-profile-trophy.vercel.app/?username=Disha-Khemka&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophy" width="90%" />
+  </a>
+</div>
+
+
+
 <div align="center" style="margin-top: 40px; display: flex; justify-content: center; gap: 20px;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DevguruPandey&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" alt="Stats" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Disha-Khemka&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_title=true" alt="Stats" width="380" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevguruPandey&layout=compact&theme=radical&langs_count=8&hide_title=true" alt="Top Languages" width="380" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Disha-Khemka&layout=compact&theme=radical&langs_count=8&hide_title=true" alt="Top Languages" width="380" />
   </div>
 </div>
 

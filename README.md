@@ -40,7 +40,7 @@
 
 <!-- View Counter -->
 <div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=DevguruPandey&label=Profile%20views&color=0e75b6&style=flat" alt="DevguruPandey" />
+  <img src="https://komarev.com/ghpvc/?username=Disha-Khemka&label=Profile%20views&color=0e75b6&style=flat" alt="Disha-Khemka" />
 </div>
 
 <div align="center">
